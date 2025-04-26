@@ -1,3 +1,6 @@
+# Developed By: JAWAHAR RAJ N
+# Register Number: 212223240057
+
 # Histogram-of-an-images
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
@@ -77,3 +80,6 @@ plt.show()
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
+
+# Developed By: JAWAHAR RAJ N
+# Register Number: 212223240057
